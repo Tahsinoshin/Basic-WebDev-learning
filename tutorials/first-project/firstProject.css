@@ -1,0 +1,58 @@
+.navbar{
+    background-color: cornsilk;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navbar li{
+    display: inline-block;
+    padding: 30px 20px;
+}
+.navbar a{
+    text-decoration: none;
+
+}
+
+
+
+.banner{
+    background-color: aqua;
+    color: white;
+    margin: top 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+#image{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.mysection{
+    padding: 50px;
+}
+#heado{
+    color: blueviolet;
+    font-size: 100px;
+}
+
+#greets ul{
+    list-style-type: none;
+
+}
+
+.avatar{
+    background-image: url('catpic.jpg');
+    background-size: cover;
+    height: 60px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.bold{
+    font-weight: 900;
+}
+a.blue{
+    color: blue;
+}
